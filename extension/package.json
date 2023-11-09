@@ -58,7 +58,7 @@
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
     "@types/styled-components": "^5.1.26",
-    "chromedriver": "^116.0.0",
+    "chromedriver": "^119.0.1",
     "cross-env": "^7.0.3",
     "electron": "^26.1.0",
     "esbuild": "^0.19.2",
